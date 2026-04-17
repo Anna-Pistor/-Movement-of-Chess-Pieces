@@ -6,7 +6,7 @@ int main()
     printf("movendo torre:\n");
     for (int i = 0; i < 5; i++)
     {
-        printf("Direita\n");
+        printf("direita\n");
     }
 
     // movendo o bispo com while
@@ -14,7 +14,7 @@ int main()
     int b = 0;
     while (b < 5)
     {
-        printf("Cima, Direita\n");
+        printf("cima, direita\n");
         b++;
     }
 
