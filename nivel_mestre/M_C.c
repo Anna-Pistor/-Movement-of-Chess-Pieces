@@ -37,15 +37,15 @@ int main()
     printf("movendo torre:\n");
     movertorre(5);
 
-    // movendo o bispo com for alinhado
+    // movendo o bispo
     printf("\nmovendo o bispo:\n");
     moverbispo(5);
 
-    // movendo a rainha com while-do
+    // movendo a rainha
     printf("\nmovendo a rainha:\n");
     moverrainha(8);
 
-    // movendo o cavalo em L com for e while
+    // movendo o cavalo em L
 
     printf("\nmovendo o cavalo:\n");
     for (int c = 0; c < 2; c++)
